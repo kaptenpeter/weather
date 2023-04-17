@@ -1,8 +1,8 @@
-#Flask Weather API
+# Flask Weather API
 
-#####This is a simple Flask API that fetches the weather forecast for a specified location using the SMHI API.
+##### This is a simple Flask API that fetches the weather forecast for a specified location using the SMHI API.
 
-##Installation
+## Installation
 
 To run the API, you'll need to have Python 3 installed on your machine.
 
@@ -66,6 +66,6 @@ Example Response
 ```
 
 
-##License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
