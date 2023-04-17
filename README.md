@@ -9,7 +9,7 @@ To run the API, you'll need to have Python 3 installed on your machine.
 1. Clone this repository:
 
 ```
-git clone https://github.com/your-username/flask-weather-api.git
+git clone https://github.com/kaptenpeter/weather.git
 ```
 
 2. Install the Python dependencies using pip:
